@@ -1,0 +1,5 @@
+Customer ID:12345
+Customer Name     :Aakash Kumar
+Email Information :abc@gmail.com
+Customer D.O.B     :13/02/2002
+Customer Contact  :1234567890

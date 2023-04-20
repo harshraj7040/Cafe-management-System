@@ -1,0 +1,5 @@
+Customer ID:123
+Customer Name     :ghj
+Email Information :ern@gm
+Customer D.O.B     :6567
+Customer Contact  :7908gc7861596
